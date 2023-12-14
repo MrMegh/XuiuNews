@@ -1,5 +1,6 @@
 {
   "dialogType": "update",
+  "version": 2,
   "title": "Urgent App Update Required",
   "message": "A critical update is available for our app. Please update immediately to ensure continued functionality.",
   "imageUrl": "https://example.com/urgent_update_dialog_image.jpg",
